@@ -1,0 +1,12 @@
+# Environment
+.env
+venv/
+__pycache__/
+
+# Journal entries
+journal_entries/
+*.png
+
+# IDE files
+.vscode/
+.idea/
